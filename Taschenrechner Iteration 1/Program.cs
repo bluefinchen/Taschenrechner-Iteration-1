@@ -7,7 +7,7 @@ namespace Taschenrechner_Iteration_1
         static void Main(string[] args)
         {
             // Anrede
-            Console.WriteLine("Hallo Matthias, ich bin Rechni, dein Taschenrechner. Bitte drücke Enter um weiter zu machen. :-)");
+            Console.WriteLine("Hallo, ich bin Rechni, dein Taschenrechner. Bitte drücke Enter um weiter zu machen. :-)");
             Console.ReadKey();
 
             // User Story "Addieren": Als Benutzer möchte ich zwei Zahlen eingeben, um deren Summe berechnen zu lassen.
